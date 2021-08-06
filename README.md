@@ -43,7 +43,15 @@ Learn how to make a basic transaction for transfer Algo.
 node transferAlgo.js
 ```
 
-### 4. Opt-in for an Algorand Standard Asset (ASA)
+### 4. Checking minimum balance
+
+Learn how to check the expected account balance before the transaction to ensure it satisfies minimum amount requirements.
+
+```bash
+node checkAccountBalance.js
+```
+
+### 5. Opt-in for an Algorand Standard Asset (ASA)
 
 Learn the peculiarities of working with Algorand Standard Assets (ASA). Make the newly created account be able to receive an ASA.
 
@@ -51,7 +59,7 @@ Learn the peculiarities of working with Algorand Standard Assets (ASA). Make the
 node optInASA.js
 ```
 
-### 5. Transfer ASA
+### 6. Transfer ASA
 
 Learn how to transfer an Algorand Standard Asset (ASA).
 
@@ -59,7 +67,7 @@ Learn how to transfer an Algorand Standard Asset (ASA).
 node transferASA.js
 ```
 
-### 6. Watch for deposits
+### 7. Watch for deposits
 
 Learn how to implement watching for new deposits and emit appropriate events. See `DepostiWatcher.js`.
 
