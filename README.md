@@ -1,6 +1,6 @@
 # Algorand Integration Snippets
 
-JavaScript code snippets illustrating base integration operations with Algorand.
+JavaScript code snippets illustrating basic integration operations with Algorand.
 
 This is a companion repository to the article: [Integrating with third-party app (deposits and withdrawals)](https://developer.algorand.org/tutorials/how-to-integrate-with-algorand/) on the Algorand Developer portal.
 
